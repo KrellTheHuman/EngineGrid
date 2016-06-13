@@ -18,7 +18,8 @@ Installation:
     In the lower half, click the Python tab and paste in the following two lines:
 
 >import EngineGrid
-EngineGrid.EngineGrid()
+>
+>EngineGrid.EngineGrid()
 
     Drag to highlight the pasted text, then click+drag to an empty spot on your shelf.
     When prompted, select Python as the script type.
